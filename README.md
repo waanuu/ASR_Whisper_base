@@ -85,5 +85,6 @@ Dự án được xây dựng dựa trên các công nghệ và thư viện mã 
 
 * **Kaggle/Google Colab GPU:** Môi trường điện toán đám mây với tài nguyên GPU hạn chế.
 
----
+## 🚀 7. Mô hình đã huấn luyện Mô hình Whisper đã fine-tune được công khai trên Hugging Face: 
+### 👉 **Hugging Face Model:** https://huggingface.co/Kwann5002/Whisper_Base 
 
