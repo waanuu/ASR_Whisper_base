@@ -62,7 +62,7 @@ Chỉ số đánh giá chính cho dự án ASR này là **Word Error Rate (WER)*
 | **Chỉ số chính** | Word Error Rate (WER) | Tỷ lệ phần trăm từ bị lỗi (thay thế, xóa, chèn). |
 | **Tập đánh giá** | ~5.400 mẫu | Số lượng mẫu âm thanh được sử dụng để tính WER. |
 | **Training Loss cuối** | $\approx 0.27$ | Giá trị Loss Function khi quá trình huấn luyện kết thúc. |
-| **WER cuối cùng** | *[Cập nhật sau]* | Vui lòng thay thế bằng giá trị WER thực tế trên tập Validation. |
+| **WER cuối cùng** | 0.50% | Giá trị WER thực tế trên tập Validation. |
 
 ---
 
