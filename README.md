@@ -50,8 +50,6 @@ Dự án này thực hiện việc **Fine-tune mô hình Whisper-base của Open
 * **Tập validation:** ~5.400
 * **Tiền xử lý:** Âm thanh được lấy mẫu lại về **16kHz** và lọc độ dài để tương thích với mô hình Whisper.
 * **Định dạng JSONL:**
-
-```json
 {"audio": "path/to/audio.wav", "text": "nội dung phiên âm"}
 
 
